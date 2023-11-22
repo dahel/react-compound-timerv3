@@ -1,8 +1,8 @@
-# react-compound-timerv2
+# react-compound-timerv3
 
 ### About
 
-This is a forked version of the original [react-compound-timer](https://volkov97.github.io/react-compound-timer/) compatible with React 17.
+This is a forked version of [react-compound-timer](https://github.com/the-black-viper/react-compound-timer) compatible with React 18.
 
 ---
 

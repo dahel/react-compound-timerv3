@@ -1,6 +1,6 @@
 {
-  "name": "react-compound-timerv2",
-  "version": "2.0.0",
+  "name": "react-compound-timerv3",
+  "version": "1.0.0",
   "description": "Timer compound react component",
   "main": "build",
   "types": "build",
@@ -42,6 +42,6 @@
     "webpack-dev-server": "^4.3.1"
   },
   "peerDependencies": {
-    "react": "^17.0.1"
+    "react": "^17.0.1 || ^18.0.0"
   }
 }
